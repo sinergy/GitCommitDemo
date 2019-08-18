@@ -1,6 +1,7 @@
 {
   "name": "gitcommitdemo",
   "version": "1.0.0",
+  "private": true,
   "description": "this is a demo app for commitizen",
   "main": "build.gradle",
   "scripts": {
