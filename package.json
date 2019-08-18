@@ -5,7 +5,8 @@
   "description": "this is a demo app for commitizen",
   "main": "build.gradle",
   "scripts": {
-    "test": "./gradlew testDebugUnitTest"
+    "test": "./gradlew testDebugUnitTest",
+    "release": "standard-version"
   },
   "author": "Cloud Chen",
   "license": "MIT",
